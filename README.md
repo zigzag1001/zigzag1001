@@ -1,7 +1,7 @@
 <p align="center">
 <b>Hi there 👋</b>
 
-![output](https://github.com/zigzag1001/zigzag1001/assets/72932714/b7a404bf-f0be-4b21-84e8-3d6a95fd1db7)
+![p1p2_concat](https://github.com/zigzag1001/zigzag1001/assets/72932714/dce3550c-7b16-451d-8455-0c8a003273dd)
 
 <!--
 **zigzag1001/zigzag1001** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
