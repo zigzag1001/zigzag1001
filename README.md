@@ -4,6 +4,7 @@
 <p align="center">
 <img loading="lazy" src="new/p1p2_concat.gif">
 
+<!--
 PixelWind
 
 `./main.exe ".\smallerbannerCopy - Copy.png" pxlBleed 17 4 17`
@@ -67,6 +68,7 @@ FFmpeg
   <summary>combine</summary>
   <img loading="lazy" src="new/p1p2_concat.gif">
 </details>
+-->
 
 <!--
 **zigzag1001/zigzag1001** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
